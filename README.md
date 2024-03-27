@@ -1,70 +1,133 @@
-# Getting Started with Create React App
+# Please visit my Portfolio 🌷
+<div align="center">
+  <h1>Responsive Project</h1>
+  <img src="./src/assets/picture1.png" />
+  <img src="./src/assets/picture2.png" />
+  <img src="./src/assets/picture3.png" />
+  <img src="./src/assets/picture4.png" />
+</div>
+<br/>
+# 📗 Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [Please visit my Portfolio 🌷](#please-visit-my-portfolio-)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 My Portfolio](#-my-portfolio)
+  - [🛠Live Demo](#live-demo)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features 🌷 ](#key-features--)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [👩🏽‍💻 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-## Available Scripts
+# 📖 My Portfolio<a name="about-project">
+This project is about building my portfolio in desktop and mobile version.
+I used React and tailwind as libraries, as well as vercel for the deployment.
+</a>
 
-In the project directory, you can run:
+## 🛠Live Demo
+[Live Demo](https://portfolio-ivonne-benites.vercel.app/)
 
-### `npm start`
+## 🛠 Built With <a name="built-with"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Tech Stack <a name="tech-stack"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<details>
+  <summary>Client 🌷</summary>
+    <ul>
+    <li><a href="https://react.dev/">React</a></li>
+  </ul>
+</details>
+<details>
+  <summary>For Styling: 🌷</summary>
+    <ul>
+    <li><a href="https://tailwindcss.com/">Tailwind</a></li>
+  </ul>
+</details>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Key Features 🌷 <a name="key-features"></a>
 
-### `npm run build`
+Feature : Separation of Concerns principle used in this project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Clone this repository to your desired folder:
 
-### `npm run eject`
+```sh
+cd my-prefered-folder
+  
+git clone https://github.com/IvonneBenitesRodriguez/portfolio_ivonne_benites.git
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Install this project with:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```sh
+cd portfolio_ivonne_benites
+  
+npm init -y
+npm install
+```
 
-## Learn More
+### Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To run the project run the following commands:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+npm start 
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Code Splitting
+## 👩🏽‍💻 Author <a name="author"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ **Ivonne Benites**
 
-### Analyzing the Bundle Size
+- 🌷GitHub: [@githubhandle](https://github.com/IvonneBenitesRodriguez)
+- 🌷Twitter: [@twitterhandle](https://twitter.com/IvonneBenitesR)
+- 🌷LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivonnebenites/)
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🔭 Future Features <a name="future-features"></a>
 
-### Making a Progressive Web App
+- [ ] **Add experience section**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Advanced Configuration
+## 🤝 Contributing <a name="contributing"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contributions, issues, and feature requests are welcome!
 
-### Deployment
+Feel free to check the [issues page](https://github.com/IvonneBenitesRodriguez/portfolio_ivonne_benites/issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm run build` fails to minify
+## ⭐️ Show your support <a name="support"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you like this project please give it a star 😁🌟✨
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank to Microverse for all the support and opportunity.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
