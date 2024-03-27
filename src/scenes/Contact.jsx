@@ -18,7 +18,7 @@ const Contact = () => {
     };
 
     return (
-        < section id="contact" className="contact py-48">
+        < section id="contact" className="contact py-28">
             <motion.div
                 initial="hidden"
                 whileInView="visible"
