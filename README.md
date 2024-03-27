@@ -6,6 +6,7 @@
   <img src="./src/assets/picture3.png" />
   <img src="./src/assets/picture4.png" />
 </div>
+<br/>
 # 📗 Table of Contents
 
 - [Please visit my Portfolio 🌷](#please-visit-my-portfolio-)
@@ -18,7 +19,7 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [👥 Author ](#-author-)
+  - [👩🏽‍💻 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -88,9 +89,9 @@ npm start
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a name="author"></a>
+## 👩🏽‍💻 Author <a name="author"></a>
 
-👤 **Ivonne Benites**
+ **Ivonne Benites**
 
 - 🌷GitHub: [@githubhandle](https://github.com/IvonneBenitesRodriguez)
 - 🌷Twitter: [@twitterhandle](https://twitter.com/IvonneBenitesR)
