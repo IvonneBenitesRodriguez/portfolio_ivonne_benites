@@ -30,7 +30,6 @@ This project is about building my portfolio in desktop and mobile version.
 I used React and tailwind as libraries, as well as vercel for the deployment.
 </a>
 
-
 ## 🛠Live Demo
 [Live Demo](https://portfolio-ivonne-benites.vercel.app/)
 
