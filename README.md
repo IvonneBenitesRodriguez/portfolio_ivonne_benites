@@ -1,6 +1,6 @@
 # Please visit my Portfolio 🌷
 <div align="center">
-  <h1>Responsive Project-ipad Mini version</h1>
+  <h1>Responsive Project</h1>
   <img src="./src/assets/picture1.png" />
   <img src="./src/assets/picture2.png" />
   <img src="./src/assets/picture3.png" />
