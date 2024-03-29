@@ -32,7 +32,7 @@ I used React and tailwind as libraries, as well as vercel for the deployment.
 </a>
 
 ## 🛠Live Demo
-[Live Demo](https://portfolio-ivonne-benites.vercel.app/)
+[Live Demo](https://portfolio-ivonne-be-git-9d3261-ivonnebenitesrodriguezs-projects.vercel.app/)
 
 ## 🛠 Built With <a name="built-with"></a>
 
