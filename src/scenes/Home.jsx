@@ -16,13 +16,13 @@ const Home = ({ setSelectedPage }) => {
                     >
                     <img
                     alt="profile"
-                    src="assets/profilePicture.png"
+                    src="assets/profilePicture.webp"
                     />
                     </div>
                 ): (
                     <img
                     alt="profile"
-                    src="assets/profilePicture.png"
+                    src="assets/profilePicture.webp"
                     />
                 )}
             </div>

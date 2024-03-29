@@ -5,13 +5,13 @@ import { motion } from "framer-motion";
 const MySkills = () => {
     const isAboveLarge = useMediaQuery("(min-width: 1060px)");
     const frontendSkills = [
-        "css.png", "bootstrap.png", "eslint.png", "html.png", "cubo.png", "figma.png", "tailwind.jpeg", "react.png"
+        "css.webp", "babel.webp", "bootstrap.webp", "eslint.webp", "html.webp", "cubo.webp", "figma.webp", "tailwind.webp", "javascript.webp","react.webp"
     ];
     const backendSkills = [
-        "postman.png", "rails.jpeg", "reactrouter.png", "redux.png", "rubocop.png", "ruby.jpeg"
+        "postman.webp", "rails.webp", "reactrouter.webp", "redux.webp", "rubocop.webp", "ruby.webp"
     ];
     const otherSkills = [
-        "slack.png", "zoom.jpeg", "visual-studio-code.png", "terminal.png", "postgreSQL.png", "sql.png", "git.png"
+        "slack.webp", "zoom.webp", "visual-studio-code.webp", "terminal.webp", "postgreSQL.webp", "sql.webp", "git.webp"
     ];
 
     return (
